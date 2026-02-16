@@ -1,9 +1,8 @@
 ### 👋🏻 Hi there, I'm Neil Christian Go
-    also known as Nichigo and Neo
-### 📖 I’m Currently Learning:
-    Software Engineering and Application Development
-### 🔭 I’m Looking to Expand my Knoweldge on:
-    Computer Vision and Machine Learning
+### 📖 I’m Currently Working on:
+    - NetSuite WMS (SuiteScript 2.X)
+### 🔭 I’m Looking to Expand my Knowledge on:
+    - Accounting Transactions Inside NetSuite
 
 ### 📫 How to Reach Me:
 [<img align="left" alt="Nichigo | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
